@@ -811,14 +811,14 @@
       opacity: 0.7;
 }
 
-    a > .picture > .miniatura-eventi:hover{
+ /*   a > .picture > .miniatura-eventi:hover{
         opacity: 0.7;
 }
 
- /*   .link-coprente{
+    .link-coprente{
          position: absolute;
          inset: 0; /* Riempie tutto il genitore (top: 0; right: 0; bottom: 0; left: 0;) 
-  z-index: 1; Assicura che il link stia sopra gli altri elementi se necessario */
+         z-index: 1; Assicura che il link stia sopra gli altri elementi se necessario */
     }*/
 
 
