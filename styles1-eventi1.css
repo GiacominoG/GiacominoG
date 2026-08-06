@@ -780,6 +780,10 @@
           font-weight: lighter;*/
 }
 
+   .contenitore_text5 a{
+          color: inherit;
+}
+
     .didascalia2{
           margin-top: 0 ;
           margin-bottom: 2rem;
@@ -802,6 +806,20 @@
     a > .img-altre:hover{
       opacity: 0.7;
 }
+
+   a > .contenitore_img:hover{
+      opacity: 0.7;
+}
+
+    a > .picture > .miniatura-eventi:hover{
+        opacity: 0.7;
+}
+
+ /*   .link-coprente{
+         position: absolute;
+         inset: 0; /* Riempie tutto il genitore (top: 0; right: 0; bottom: 0; left: 0;) 
+  z-index: 1; Assicura che il link stia sopra gli altri elementi se necessario */
+    }*/
 
 
     .anchor {
@@ -924,9 +942,9 @@
     }
 
 .header{
-/*   max-width: auto;
-    padding: .4rem; 
     margin: auto;
+/*  max-width: auto;
+    padding: .4rem; 
     margin-bottom: 2rem;*/
     /*margin-top: auto;*/
     }
